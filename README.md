@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stephen Coufie<br>📍 Computer Science Student | Python & Java Enthusiast | Problem Solver<br><br>I'm a second-year CS undergrad at Wilfrid Laurier University passionate about:<br><br>Software Development (building clean, efficient code)<br><br>Algorithms & Data Structures (solving problems creatively)<br><br>Web Development (currently learning HTML/CSS/JavaScript)<br><br>🔧 Tech Stack: Python | Java |C | Git |  <br>🌱 Learning: SQL| <br>💡 Fun Fact: I love playing soccer and going to the gym<br><br>Let’s connect!<br>📫 coufie_stephen@yahoo.com | 🔗 [TBD]
+👋 Hi, I'm Stephen Coufie<br>📍 Computer Science Student | Python & Java Enthusiast | Problem Solver<br><br>I'm a CS undergrad at Wilfrid Laurier University passionate about:<br><br>Software Development (building clean, efficient code)<br><br>Algorithms & Data Structures (solving problems creatively)<br><br>Web Development (currently learning HTML/CSS/JavaScript)<br><br>🔧 Tech Stack: Python | Java |C | Git |  <br>🌱 Learning: SQL| <br>💡 Fun Fact: I love playing soccer and going to the gym<br><br>Let’s connect!<br>📫 coufie_stephen@yahoo.com | 🔗 [TBD]
 
 
 ## 🌐 Socials:
